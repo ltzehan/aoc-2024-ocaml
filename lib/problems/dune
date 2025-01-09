@@ -9,4 +9,4 @@
 
 (library
  (name problems)
- (libraries problem import core))
+ (libraries problem import core re2))
